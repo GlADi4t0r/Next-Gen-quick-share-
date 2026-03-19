@@ -1,0 +1,1 @@
+just an application for file tramsfer between pc to android/iphone/mac or anythijg that has browser in it works with lan and wifi only can go upto 1TBps and can be limited by your hardware capabilities portable and easy to use.
