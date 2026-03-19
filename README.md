@@ -2,3 +2,5 @@ just an application for file transfer between pc to android/iphone/mac or anythi
 
 Download 
 url :- https://github.com/GlADi4t0r/file-share-via-lan-and-wifi-fastest-and-best/raw/refs/heads/main/QuickShare.exe
+
+while i tried it with my pc and android with wifi 6 and lan it goes upto 546 MBps can transfer file upto 50gb in one go
